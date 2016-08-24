@@ -1,2 +1,3 @@
 # hello-world
 A new saga begins...
+I am a mechanical eingeer with an MBA and 20+ of BD and System(s) of Systems Engeering experience in the DOD and Defense Industry.
